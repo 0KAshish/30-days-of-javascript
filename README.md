@@ -1,4 +1,4 @@
-# 📘 JS 30 Days 30 Project
+# 📘 30-days-of-javascript
 
 A collection of **30 JavaScript projects in 30 days** — designed to sharpen your skills in **Vanilla JS**, DOM manipulation, and modern web development practices.  
 This repository is perfect for learners who want to build hands-on projects without relying on frameworks or libraries.
